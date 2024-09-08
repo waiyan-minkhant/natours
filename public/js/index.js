@@ -38,7 +38,6 @@ if (userDataForm)
     form.append('name', this.querySelector("input[name='name']").value);
     form.append('email', this.querySelector("input[name='email']").value);
     form.append('photo', document.getElementById('photo').files[0]);
-    console.log(form);
     updateSettings(form, 'data');
   });
 

@@ -7,6 +7,7 @@ const mongoSanitize = require('express-mongo-sanitize');
 const xss = require('xss-clean');
 const hpp = require('hpp');
 const cookieParser = require('cookie-parser');
+const compression = requrie('compression');
 
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
@@ -82,6 +83,9 @@ app.use((req, res, next) => {
   //   );
   next();
 });
+
+// to compress texts (won't work for imgs like JPEGs as they're already compressed)
+app.use(compression());
 
 // Test middleware
 app.use((req, res, next) => {

@@ -20,7 +20,7 @@ export const displayMap = (locations) => {
     const swappedLatLngCoordinates = [loc.coordinates[1], loc.coordinates[0]]; // because it has to be lat and lng not in reverse
     // Create marker icon
     const myIcon = L.icon({
-      iconUrl: `${window.location.origin}/img/pin.png`,
+      iconUrl: `/img/pin.png`,
       iconSize: [32, 40],
       iconAnchor: [22, 94],
     });
