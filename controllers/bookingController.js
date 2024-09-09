@@ -66,7 +66,7 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
 const createBookingCheckout = async (session) => {
   const tour = session.client_reference_id;
   const user = (await User.find({ email: session.customer_email })).id;
-  const price = session.line_items[0].price_data.unit_amount / 100;
+  const price = session.amount_total / 100;
   await Booking.create({ tour, user, price });
 };
 
@@ -88,7 +88,7 @@ exports.webhookCheckout = async (req, res, next) => {
     try {
       await createBookingCheckout(event.data.object); // Ensure you await the async function
     } catch (err) {
-      console.log(event);
+      // console.log(event);
       console.error('Error handling session completion:', err);
       return res.status(500).send('Internal Server Error');
     }
