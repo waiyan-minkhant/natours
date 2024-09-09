@@ -8,6 +8,7 @@ const xss = require('xss-clean');
 const hpp = require('hpp');
 const cookieParser = require('cookie-parser');
 const compression = require('compression');
+const cors = require('cors');
 
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
@@ -27,6 +28,21 @@ app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
 
 // 1) GLOBAL MIDDLEWARES
+// Implement CORS
+app.use(cors());
+// Allow specific origins (websites )
+// api.natours.com frontend natours.com
+// app.use(
+//   cors({
+//     origin: 'https://www.natours.com',
+//   })
+// );
+
+// Access-Control-Allow-Origin * (only for simple (get, post) requests not for non-simple reqs(put, patch, delete) or reqs that send cookies or use non-standard headers. These non-simple reqs require preflight phase. Before non-simple req happens, the browser first does an option req in order to figure out the actual req is safe to send. For us devs, on our server, we need to respond to that options req, which is just another HTTP method. So basically when we get one of these options reqs on our server, we then need to send back the same Access-Control-Allow-Origin header so that the browser will then know the actual req is safe to perform and then executes that non-simple req)
+// app.options('*', cors());
+// Only tour routes will be able to use put, patch, and delete from a cross-origin-request
+app.options('/api/v1/tours/:id', cors());
+
 // Serving static files
 app.use(express.static(path.join(__dirname, 'public')));
 
