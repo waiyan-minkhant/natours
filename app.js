@@ -20,6 +20,9 @@ const bookingRouter = require('./routes/bookingRoutes');
 // Start express app
 const app = express();
 
+// so that req.secure will work
+app.enable('trust proxy');
+
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
 

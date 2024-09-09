@@ -38,3 +38,10 @@ process.on('unhandledRejection', (err) => {
   // Exit the program gracefully. Shut down the server first, then the app.
   server.close(() => process.exit(1));
 });
+
+process.on('SIGTERM', () => {
+  console.log('🚩 SIGTERM RECEIVED. Shutting down gracefully...');
+  server.close(() => {
+    console.log('💥 Process terminated!');
+  });
+});
