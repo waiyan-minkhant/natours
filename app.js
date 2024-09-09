@@ -102,7 +102,7 @@ app.use(
 app.use((req, res, next) => {
   res.setHeader(
     'Content-Security-Policy',
-    "script-src 'self' https://unpkg.com https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.5/axios.min.js https://js.stripe.com;"
+    "script-src 'self' https://unpkg.com https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.5/axios.min.js https://js.stripe.com ;"
   );
   //   res.setHeader(
   //     'Content-Security-Policy',

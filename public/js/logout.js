@@ -1,4 +1,5 @@
 import axios from 'axios';
+// const axios = require('axios');
 import { showAlert } from './alerts';
 
 export const logout = async () => {

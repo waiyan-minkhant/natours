@@ -64,6 +64,7 @@ if (userPasswordForm)
 
 if (bookBtn)
   bookBtn.addEventListener('click', (e) => {
+    console.log('hello');
     e.target.textContent = 'Processing...';
     const { tourId } = e.target.dataset;
     // console.log(tourId);
