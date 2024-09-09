@@ -1,7 +1,7 @@
-12254
+12262
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseAssignValue.js133674063896871122 0
 130D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\generate.js133692104185933106 0
-47D:\Nodejs 2024\my-nodejs\4.natours\package.json133702469962846728 0
+47D:\Nodejs 2024\my-nodejs\4.natours\package.json133703724501072323 0
 76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\axios\lib\cancel\isCancel.js133692344400712332 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\layer\tile133692359669382371 1
 90D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Climate\ProductsResource.d.ts133700970894958506 0
@@ -12,7 +12,7 @@
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\diffie-hellman\index.js133701041592719152 0
 59D:\Nodejs 2024\my-nodejs\4.natours\node_modules\hash.js\lib133701041594352227 1
 53D:\Nodejs 2024\my-nodejs\4.natours\public\img\pin.png133605674993563620 0
-45D:\Nodejs 2024\my-nodejs\4.natours\.gitignore133702451602992460 0
+45D:\Nodejs 2024\my-nodejs\4.natours\.gitignore133702479607596432 0
 80D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cosmiconfig\dist\readFile.js.map133692104176691253 0
 76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\source-map\lib\quick-sort.js133692104144098090 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\layer\vector\CircleMarker.js133692359667233705 0
@@ -58,7 +58,7 @@
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\src\index.mjs133692104245145610 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\esm\resources\Subscriptions.js133700970881856635 0
 60D:\Nodejs 2024\my-nodejs\4.natours\public\img\logo-white.png133605674993175118 0
-41D:\Nodejs 2024\my-nodejs\4.natours\app.js133702470779249893 0
+41D:\Nodejs 2024\my-nodejs\4.natours\app.js133703738248153291 0
 77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-tree\cjs\utils\string.cjs133692104207933816 0
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\url\node_modules\qs\.nycrc133701042362122239 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\constantinople\package.json133685226226082889 0
@@ -71,7 +71,7 @@
 57D:\Nodejs 2024\my-nodejs\4.natours\node_modules\svgo\dist133692104140156965 1
 56D:\Nodejs 2024\my-nodejs\4.natours\views\_reviewCard.pug133688980582014818 0
 62D:\Nodejs 2024\my-nodejs\4.natours\node_modules\clone\clone.js133692104134463464 0
-45D:\Nodejs 2024\my-nodejs\4.natours\config.env133700972638955725 0
+45D:\Nodejs 2024\my-nodejs\4.natours\config.env133703710860589728 0
 55D:\Nodejs 2024\my-nodejs\4.natours\node_modules\is-glob133692104130149693 1
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\posthtml\package.json133692104131431559 0
 63D:\Nodejs 2024\my-nodejs\4.natours\node_modules\has-tostringtag133685226240327649 1
@@ -88,7 +88,7 @@
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\url\test\index.js133701042358670312 0
 92D:\Nodejs 2024\my-nodejs\4.natours\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md133685226235059786 0
 43D:\Nodejs 2024\my-nodejs\4.natours\dev-data133629486701034729 1
-48D:\Nodejs 2024\my-nodejs\4.natours\public\output133702478943159009 1
+48D:\Nodejs 2024\my-nodejs\4.natours\public\output133703837914346133 1
 59D:\Nodejs 2024\my-nodejs\4.natours\node_modules\utils-merge133630118469031788 1
 82D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\es\lib\isIdentityCard.js133654371559214343 0
 59D:\Nodejs 2024\my-nodejs\4.natours\node_modules\create-hmac133701041593963287 1
@@ -124,6 +124,7 @@
 81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\CouponsResource.d.ts133700970887844202 0
 64D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mquery\README.md133635960435320525 0
 61D:\Nodejs 2024\my-nodejs\4.natours\node_modules\void-elements133685226230453955 1
+63D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\HISTORY.md133703602527228207 0
 113D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133692104175883422 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\transformer-babel\src\flow.js133692104148101855 0
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\cjs\multipart.js133700970878552845 0
@@ -134,7 +135,7 @@
 87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\es\lib\util\multilineRegex.js133654371562511819 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lightningcss-win32-x64-msvc133692104130159662 1
 64D:\Nodejs 2024\my-nodejs\4.natours\node_modules\with\tslint.json133685226236101281 0
-47D:\Nodejs 2024\my-nodejs\4.natours\node_modules133702469962643358 1
+47D:\Nodejs 2024\my-nodejs\4.natours\node_modules133703602528870388 1
 49D:\Nodejs 2024\my-nodejs\4.natours\utils\email.js133700110555647889 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\util-deprecate\package.json133635960412571790 0
 58D:\Nodejs 2024\my-nodejs\4.natours\views\email\welcome.pug133699985228451087 0
@@ -150,7 +151,7 @@
 57D:\Nodejs 2024\my-nodejs\4.natours\node_modules\is-number133692104129830526 1
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\pug-runtime\LICENSE133685226226099895 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\pug-runtime\build.js133685226227527890 0
-52D:\Nodejs 2024\my-nodejs\4.natours\package-lock.json133702469971318429 0
+52D:\Nodejs 2024\my-nodejs\4.natours\package-lock.json133703602537719181 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\.bin\detect-libc.cmd133692104286263771 0
 56D:\Nodejs 2024\my-nodejs\4.natours\node_modules\punycode133701042356487835 1
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\basic-auth\node_modules133632642068327715 1
@@ -170,7 +171,7 @@
 109D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\esm\resources\TestHelpers\Treasury\OutboundPayments.js133700970878878852 0
 72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-tree\dist\version.js133692104233347957 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\css-resize.js133692104228542856 0
-49D:\Nodejs 2024\my-nodejs\4.natours\views\base.pug133692154410606771 0
+49D:\Nodejs 2024\my-nodejs\4.natours\views\base.pug133703831490524521 0
 62D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\once.js133674063914350390 0
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\compression\README.md133702469962013011 0
 41D:\Nodejs 2024\my-nodejs\4.natours\public133692154397469854 1
@@ -206,7 +207,7 @@
 64D:\Nodejs 2024\my-nodejs\4.natours\views\email\passwordReset.pug133700063762200341 0
 89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lmdb\node_modules\node-addon-api\index.js133692104153980870 0
 82D:\Nodejs 2024\my-nodejs\4.natours\node_modules\pug-error\lib\tsconfig.tsbuildinfo133685226235612829 0
-66D:\Nodejs 2024\my-nodejs\4.natours\node_modules\.package-lock.json133702469978269330 0
+66D:\Nodejs 2024\my-nodejs\4.natours\node_modules\.package-lock.json133703602542892813 0
 89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\reporter-dev-server\src\Server.js133692104138251607 0
 80D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\PromotionCodes.d.ts133700970895024166 0
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\cjs\_async_iterator.cjs133692104143759047 0
@@ -227,7 +228,7 @@
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\ipaddr.js\README.md133630118468762512 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@types\node\perf_hooks.d.ts133635960441036566 0
 72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\weak-lru-cache\README.md133692104140921153 0
-44D:\Nodejs 2024\my-nodejs\4.natours\server.js133657562046979398 0
+44D:\Nodejs 2024\my-nodejs\4.natours\server.js133703585687271003 0
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\esm\ResourceNamespace.js133700970880360754 0
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\base-x\src\index.js133692104120158646 0
 66D:\Nodejs 2024\my-nodejs\4.natours\node_modules\node-releases\data133692104133615708 1
@@ -304,7 +305,7 @@
 50D:\Nodejs 2024\my-nodejs\4.natours\views\error.pug133693132592736827 0
 81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\RefundsResource.d.ts133700970895589994 0
 130D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stream-browserify\node_modules\readable-stream\lib\internal\streams\buffer_list.js133701042534785300 0
-64D:\Nodejs 2024\my-nodejs\4.natours\controllers\viewController.js133701874742062793 0
+64D:\Nodejs 2024\my-nodejs\4.natours\controllers\viewController.js133703834741426948 0
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\pug-strip-comments\CHANGELOG.md133685226229403500 0
 103D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json133692104236094811 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseIntersection.js133674063897609150 0
@@ -366,7 +367,7 @@
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\es\lib\isTaxID.js133654371561926176 0
 134D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133692104201438664 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongoose\tools\sharded.js133635960457164028 0
-55D:\Nodejs 2024\my-nodejs\4.natours\routes\viewRoutes.js133701855344083377 0
+55D:\Nodejs 2024\my-nodejs\4.natours\routes\viewRoutes.js133703833247346041 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\node-gyp-build-optional-packages\LICENSE133692104119201205 0
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongoose\lib\options\VirtualOptions.js133635960457695612 0
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Apps133700970896238435 1
@@ -400,7 +401,7 @@
 57D:\Nodejs 2024\my-nodejs\4.natours\node_modules\commander133692104142250206 1
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\multer\lib\multer-error.js133694672607179152 0
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\entities\lib\index.d.ts133692104166435779 0
-57D:\Nodejs 2024\my-nodejs\4.natours\public\output\index.js133702478943129159 0
+57D:\Nodejs 2024\my-nodejs\4.natours\public\output\index.js133703837914324788 0
 105D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\package.json133692104200979899 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\utils-merge\index.js133630118469211301 0
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\resolve\test\module_dir\ymodules\aaa133685226245758671 1
@@ -410,12 +411,12 @@
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\runtime-js\src\helpers\worker133692104179514803 1
 102D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\entities\lib\encode.d.ts.map133699971982951807 0
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\has-proto\README.md133630118470575215 0
-54D:\Nodejs 2024\my-nodejs\4.natours\public\js\alerts.js133692372755577878 0
+54D:\Nodejs 2024\my-nodejs\4.natours\public\js\alerts.js133703837584185050 0
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\cjs\resources\AccountLinks.js133700970874691677 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseWhile.js133674063898981595 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-select\node_modules\entities\lib\esm133692104192226705 1
 63D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mquery\Makefile133635960418866565 0
-53D:\Nodejs 2024\my-nodejs\4.natours\public\js\index.js133702473232618189 0
+53D:\Nodejs 2024\my-nodejs\4.natours\public\js\index.js133703837679639252 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\buffer-xor\README.md133701041591921786 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\object-inspect\CHANGELOG.md133630118473108455 0
 63D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash.isnumber133661697767653103 1
@@ -906,14 +907,14 @@
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@types\mongodb\index.d.ts133635960430146396 0
 112D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\entities\lib\decode_codepoint.d.ts.map133699971979589312 0
 103D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax133692104196542037 1
-55D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@emnapi133702469962798537 1
+55D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@emnapi133703602529342685 1
 60D:\Nodejs 2024\my-nodejs\4.natours\node_modules\token-stream133685226234933924 1
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongoose\lib\error\validator.js133635960457645653 0
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lightningcss\node133692104155935631 1
 96D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-select\node_modules\entities\lib\decode.d.ts133692104189753444 0
 81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\TestHelpers\Terminal133700970895284335 1
 97D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133692104213494923 0
-52D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@img133702469962718387 1
+52D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@img133703602528985949 1
 97D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133692104133735414 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\semver\functions\compare.js133661697768419521 0
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\regions\YE.js133692104267986639 0
@@ -938,7 +939,7 @@
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\node-addon-api\tools\clang-format.js133692104150548181 0
 56D:\Nodejs 2024\my-nodejs\4.natours\node_modules\bcryptjs133661040299097045 1
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\async\.eslintrc133635960417967838 0
-53D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@lmdb133702469962703183 1
+53D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@lmdb133703602528945586 1
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\hash-base\LICENSE133701041594722857 0
 78D:\Nodejs 2024\my-nodejs\4.natours\node_modules\type-fest\ts41\snake-case.d.ts133692104175843518 0
 78D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\es\lib\isCurrency.js133654371558123507 0
@@ -950,11 +951,11 @@
 60D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\es133654371556856335 1
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\events\tests\once.js133701041809023847 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongoose\lib\schema.js133635960456775352 0
-65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@msgpackr-extract133702469962693209 1
+65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@msgpackr-extract133703602528930399 1
 54D:\Nodejs 2024\my-nodejs\4.natours\node_modules\parcel133692104141155832 1
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\jsonwebtoken\node_modules133661697760389746 1
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\profiler\lib\Trace.d.ts133692104152953614 0
-55D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel133702469962683237 1
+55D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel133703602528920334 1
 80D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\PricesResource.d.ts133700970894414566 0
 76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash.isplainobject\LICENSE133661697767442472 0
 96D:\Nodejs 2024\my-nodejs\4.natours\node_modules\dicer\bench\multiparty-bench-multipart-parser.js133694672606568209 0
@@ -963,8 +964,7 @@
 72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_isFlattenable.js133674063900932325 0
 97D:\Nodejs 2024\my-nodejs\4.natours\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133692104213634541 0
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\parse-asn1\aesid.json133701041594601554 0
-52D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc133702469962663293 1
-70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\to-regex-range\LICENSE133692104127865781 0
+52D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc133703602528890417 1
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\weak-lru-cache\index.js133692104129262049 0
 54D:\Nodejs 2024\my-nodejs\4.natours\node_modules\morgan133632642069332382 1
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\csso\lib\replace\property133692104195125816 1
@@ -1128,10 +1128,6 @@
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseOrderBy.js133674063898247339 0
 63D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\maxBy.js133674063913213427 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\type-fest\source\set-return-type.d.ts133692104174886084 0
-83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@babel\types\lib\modifications\flow133685226260309839 1
-62D:\Nodejs 2024\my-nodejs\4.natours\node_modules\bl\.travis.yml133635960421486029 0
-89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\dist\xss-filters.1.2.7.min.js133674045593528537 0
-81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\dom-serializer\lib\index.d.ts.map133692104145723736 0
 96D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\css-featurequeries.js133692104221244203 0
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\isSafeInteger.js133674063911529599 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\validator\lib\isURL.js133654371562215145 0
@@ -1311,6 +1307,19 @@
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133692104190281907 0
 78D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\cache\src\LMDBCache.js133692104148101855 0
 60D:\Nodejs 2024\my-nodejs\4.natours\node_modules\core-util-is133635960416961436 1
+75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\sparse-bitfield\.travis.yml133635960420403533 0
+77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\axios\lib\helpers\throttle.js133692344401080331 0
+67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\parse-json\index.js133692104125070819 0
+52D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors133703602527358635 1
+58D:\Nodejs 2024\my-nodejs\4.natours\node_modules\url\url.js133701042358750166 0
+76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\dom\Draggable.js133692359667717849 0
+77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\undici-types\proxy-agent.d.ts133635960435993149 0
+67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fromPairs.js133674063908134815 0
+127D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stream-http\node_modules\readable-stream\lib\internal\streams\async_iterator.js133701042190769249 0
+76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseIsArrayBuffer.js133674063897659003 0
+76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-tree\dist\csstree.esm.js133692104221683028 0
+65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\tests133674045594528630 1
+73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\net\net.d.ts133700970890899696 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Sources.d.ts133700970897396836 0
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\pbkdf2\package.json133701041595859117 0
 59D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cosmiconfig133692104178876491 1
@@ -2059,18 +2068,6 @@
 96D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133692104161257402 0
 95D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@babel\types\lib\converters\toExpression.js.map133685226254533416 0
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\LICENSE133674045593032173 0
-75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\sparse-bitfield\.travis.yml133635960420403533 0
-77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\axios\lib\helpers\throttle.js133692344401080331 0
-67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\parse-json\index.js133692104125070819 0
-58D:\Nodejs 2024\my-nodejs\4.natours\node_modules\url\url.js133701042358750166 0
-76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\dom\Draggable.js133692359667717849 0
-77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\undici-types\proxy-agent.d.ts133635960435993149 0
-67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fromPairs.js133674063908134815 0
-127D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stream-http\node_modules\readable-stream\lib\internal\streams\async_iterator.js133701042190769249 0
-76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_baseIsArrayBuffer.js133674063897659003 0
-76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-tree\dist\csstree.esm.js133692104221683028 0
-65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\tests133674045594528630 1
-73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\net\net.d.ts133700970890899696 0
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\operations\insert_one.js133635960443676739 0
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\gopd\package.json133630118469271147 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\tests\fuzz133674045594388252 1
@@ -2109,6 +2106,10 @@
 93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\operations\find_one_and_update.js133635960442550782 0
 92D:\Nodejs 2024\my-nodejs\4.natours\node_modules\morgan\node_modules\on-finished\package.json133632642068992756 0
 89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\dist\xss-filters.1.2.6.min.js133674045593493468 0
+83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@babel\types\lib\modifications\flow133685226260309839 1
+62D:\Nodejs 2024\my-nodejs\4.natours\node_modules\bl\.travis.yml133635960421486029 0
+89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\dist\xss-filters.1.2.7.min.js133674045593528537 0
+81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\dom-serializer\lib\index.d.ts.map133692104145723736 0
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\dist\xss-filters.js133674045593598419 0
 83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\xss-filters\dist\xss-filters.min.js133674045593197116 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\operations\run_command.js133635960450505895 0
@@ -3101,6 +3102,7 @@
 95D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\css-width-stretch.js133692104231393170 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\toidentifier\README.md133630118469171418 0
 98D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-select\node_modules\entities\lib\decode.js.map133692104175663995 0
+70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\to-regex-range\LICENSE133692104127865781 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\to-regex-range\package.json133692104119181258 0
 105D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\css-tools.js133692104169628975 0
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\regions\CR.js133692104209904532 0
@@ -3674,10 +3676,10 @@
 106D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\index.js.map133699971979967231 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mquery\lib\mquery.js133635960430120956 0
 97D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Treasury\ReceivedDebitsResource.d.ts133700970895540038 0
-93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Treasury\TransactionEntries.d.ts133700970898366870 0
-70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\sharp\install\check.js133694745941601874 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\resolve-from\license133692104127885724 0
 84D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stream-browserify\test\use-stream.js133701042539667030 0
+70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\sharp\install\check.js133694745941601874 0
+93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Treasury\TransactionEntries.d.ts133700970898366870 0
 100D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\esm\legacy.js133699971975038678 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133692104190381636 0
 101D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Treasury\TransactionEntriesResource.d.ts133700970898386822 0
@@ -3799,12 +3801,13 @@
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\error_codes.js133635960441636968 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Issuing\TokensResource.d.ts133700970898193528 0
 99D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\feeds.js.map133699971979599295 0
-121D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessDefs.js133692104190521262 0
-86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Issuing\Transactions.d.ts133700970898481843 0
-72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\detect-libc\package.json133692104119251054 0
 105D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133692104226618004 1
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongoose\lib\helpers\schema\getPath.js133635960443957921 0
 94D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Issuing\TransactionsResource.d.ts133700970898607487 0
+56D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\lib133703602527398621 1
+121D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessDefs.js133692104190521262 0
+86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Issuing\Transactions.d.ts133700970898481843 0
+72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\detect-libc\package.json133692104119251054 0
 94D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Identity\VerificationReports.d.ts133700970899113496 0
 102D:\Nodejs 2024\my-nodejs\4.natours\node_modules\stripe\types\Identity\VerificationReportsResource.d.ts133700970899133717 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\domutils\lib\traversal.js133692104142661968 0
@@ -5674,10 +5677,10 @@
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\path-to-regexp\LICENSE133630118467475946 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\content-disposition\LICENSE133630118467007184 0
 72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\path-to-regexp\Readme.md133630118468692681 0
-69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\jsonwebtoken\index.js133661697767748059 0
-87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\atob-btoa.js133692104178447647 0
 66D:\Nodejs 2024\my-nodejs\4.natours\node_modules\path-parse\LICENSE133685226225244532 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-select\lib\index.d.ts133692104196881115 0
+87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\atob-btoa.js133692104178447647 0
+69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\jsonwebtoken\index.js133661697767748059 0
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\minimalistic-crypto-utils\lib\utils.js133701041593594259 0
 68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\path-parse\README.md133685226230035959 0
 66D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-select\lib\esm133692104202505807 1
@@ -6509,6 +6512,7 @@
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\cmap\errors.js133635960441842789 0
 78D:\Nodejs 2024\my-nodejs\4.natours\node_modules\csso\cjs\replace\Dimension.cjs133692104157661553 0
 82D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\cmap\message_stream.js133635960444017832 0
+65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\lib\index.js133703602527420633 0
 94D:\Nodejs 2024\my-nodejs\4.natours\node_modules\axios\lib\helpers\ZlibHeaderTransformStream.js133692344401445477 0
 83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mongodb\lib\async\async_iterator.js133635960427636107 0
 92D:\Nodejs 2024\my-nodejs\4.natours\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule133692104206717043 1
@@ -6606,7 +6610,6 @@
 65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lmdb\node_modules133692104077891746 1
 72D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\_reInterpolate.js133674063901897602 0
 61D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mdn-data\l10n133692104141215724 1
-89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\audiotracks.js133692104180532060 0
 93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\transformer-postcss\src\loadConfig.js133692104135757908 0
 64D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mdn-data\LICENSE133692104119091520 0
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\mdn-data\package.json133692104150807493 0
@@ -7427,6 +7430,7 @@
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fp\mergeAll.js133674063913472724 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fp\mergeWith.js133674063913522587 0
 67D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fp\method.js133674063913572485 0
+62D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\README.md133703602527333507 0
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fp\methodOf.js133674063913612370 0
 69D:\Nodejs 2024\my-nodejs\4.natours\node_modules\lodash\fp\multiply.js133674063913871676 0
 76D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\workers\lib\child.js133692104137613526 0
@@ -7843,7 +7847,6 @@
 79D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\regions\SA.js133692104253748778 0
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\geo\crs\CRS.js133692359667532896 0
 81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\geo\crs\CRS.Simple.js133692359667552842 0
-87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\autofocus.js133692104180911063 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\dom\DomEvent.DoubleTap.js133692359667642624 0
 83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\leaflet\src\dom\DomEvent.Pointer.js133692359667672869 0
 61D:\Nodejs 2024\my-nodejs\4.natours\node_modules\bn.js\LICENSE133701041590544551 0
@@ -7985,8 +7988,8 @@
 95D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\createimagebitmap.js133692104210014233 0
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\js-yaml\lib\type\set.js133692104169619005 0
 71D:\Nodejs 2024\my-nodejs\4.natours\node_modules\js-yaml\lib\type\str.js133692104171184825 0
-77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\js-yaml\lib\type\timestamp.js133692104172002625 0
 83D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\audio.js133692104180033401 0
+77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\js-yaml\lib\type\timestamp.js133692104172002625 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\htmlnano\lib\modules\mergeScripts.mjs133692104201767781 0
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\js-yaml\lib\schema\core.js133692104136705945 0
 127D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\specificity.js133692104180631796 0
@@ -8269,9 +8272,10 @@
 113D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\WritableStream.d.ts.map133699971981708161 0
 107D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\WritableStream.js133699971979062406 0
 104D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\index.d.ts133699971982951807 0
+105D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\Parser.d.ts133699971983092487 0
+65D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\package.json133703602527133209 0
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\utils\src\index.js133692104183369965 0
 109D:\Nodejs 2024\my-nodejs\4.natours\node_modules\csso\node_modules\css-tree\cjs\syntax\function\expression.cjs133692104177259731 0
-105D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\Parser.d.ts133699971983092487 0
 109D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\Parser.d.ts.map133699971980288951 0
 107D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\htmlparser2\lib\esm\Parser.js.map133699971980745036 0
 89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@babel\types\lib\traverse\traverse.js.map133685226261773044 0
@@ -8340,7 +8344,6 @@
 97D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\index.d.ts133699971984721965 0
 95D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\index.js133699971974700983 0
 99D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\index.js.map133699971980775038 0
-81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\av1.js133692104181698967 0
 98D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\legacy.d.ts133699971984807282 0
 108D:\Nodejs 2024\my-nodejs\4.natours\node_modules\html-to-text\node_modules\domutils\lib\manipulation.d.ts.map133699971981437233 0
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\css-tree\lib\syntax\node\MediaQuery.js133692104228204158 0
@@ -9594,6 +9597,8 @@
 77D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cosmiconfig\dist\types.js.map133692104177658664 0
 85D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\dist\unpacker\feature.js133692104237325296 0
 74D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cosmiconfig\dist\util.d.ts133692104186720990 0
+68D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\CONTRIBUTING.md133703602527188326 0
+60D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cors\LICENSE133703602527283641 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\core-util-is\package.json133635960414611327 0
 70D:\Nodejs 2024\my-nodejs\4.natours\node_modules\core-util-is\README.md133635960417533591 0
 75D:\Nodejs 2024\my-nodejs\4.natours\node_modules\cookie-signature\.npmignore133630118467505853 0
@@ -9793,7 +9798,10 @@
 93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\async-functions.js133692104177329571 0
 73D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\src\_jsx.mjs133692104243091104 0
 87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\audio-api.js133692104179474898 0
+89D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\audiotracks.js133692104180532060 0
+87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\autofocus.js133692104180911063 0
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\auxclick.js133692104181329922 0
+81D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\av1.js133692104181698967 0
 82D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\avif.js133692104182137758 0
 99D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\background-attachment.js133692104185883231 0
 98D:\Nodejs 2024\my-nodejs\4.natours\node_modules\caniuse-lite\data\features\background-clip-text.js133692104186132564 0
@@ -10905,7 +10913,7 @@
 92D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_interop_require_default.js133692104216133341 0
 93D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133692104216771619 0
 87D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_is_native_function.js133692104217080810 0
-67D:\Nodejs 2024\my-nodejs\4.natours\controllers\bookingController.js133701886854730834 0
+67D:\Nodejs 2024\my-nodejs\4.natours\controllers\bookingController.js133703832732653911 0
 88D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@parcel\package-manager\lib\index.js.map133692104183210408 0
 86D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_iterable_to_array.js133692104217670485 0
 98D:\Nodejs 2024\my-nodejs\4.natours\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133692104217500752 0
@@ -12249,7 +12257,7 @@
 67D:\Nodejs 2024\my-nodejs\4.natours\dev-data\data\import-dev-data.js133694694526371009 0
 61D:\Nodejs 2024\my-nodejs\4.natours\dev-data\data\reviews.json133605674979381571 0
 59D:\Nodejs 2024\my-nodejs\4.natours\dev-data\data\users.json133694693158809647 0
-64D:\Nodejs 2024\my-nodejs\4.natours\controllers\authController.js133702471938998249 0
+64D:\Nodejs 2024\my-nodejs\4.natours\controllers\authController.js133703470744718167 0
 65D:\Nodejs 2024\my-nodejs\4.natours\controllers\errorController.js133693135561058256 0
 64D:\Nodejs 2024\my-nodejs\4.natours\controllers\handlerFactory.js133693949121659890 0
 64D:\Nodejs 2024\my-nodejs\4.natours\controllers\userController.js133695674259066555 0

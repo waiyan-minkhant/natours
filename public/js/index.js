@@ -3,6 +3,7 @@ import { login } from './login.js';
 import { logout } from './logout.js';
 import { updateSettings } from './updateSettings.js';
 import { bookTour } from './stripe.js';
+import { showAlert } from './alerts.js';
 
 // DOM Elements
 const leaflet = document.getElementById('map');
@@ -69,3 +70,6 @@ if (bookBtn)
     bookTour(tourId);
     e.target.textContent = 'Book tour now!';
   });
+
+const alertMessage = document.body.dataset.alert;
+if (alertMessage) showAlert('success', alertMessage, 20);
