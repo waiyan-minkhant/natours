@@ -85,7 +85,13 @@ exports.webhookCheckout = async (req, res, next) => {
   }
 
   if (event.type === 'checkout.session.completed')
-    await createBookingCheckout(event.data.object);
+    try {
+      await createBookingCheckout(event.data.object); // Ensure you await the async function
+    } catch (err) {
+      console.log(event);
+      console.error('Error handling session completion:', err);
+      return res.status(500).send('Internal Server Error');
+    }
 
   res.status(200).json({
     received: true,
