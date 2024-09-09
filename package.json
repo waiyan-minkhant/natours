@@ -16,6 +16,7 @@
     "default": {
       "source": "./public/js/index.js",
       "distDir": "./public/output",
+      "outputFormat": "esmodule",
       "sourceMap": false
     }
   },
