@@ -19,6 +19,7 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
     success_url: `${req.protocol}://${req.get('host')}/my-tours`,
     cancel_url: `${req.protocol}://${req.get('host')}/tour/${tour.slug}`,
     customer_email: req.user.email,
+    customer_id: req.user.id,
     client_reference_id: req.params.tourId,
     // Old version
     // line_items: [
@@ -66,11 +67,13 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
 const createBookingCheckout = async (session) => {
   // console.log(session);
   const tour = session.client_reference_id;
-  const user = await User.find({ email: session.customer_email });
-  const userId = user._id;
-  console.log(user, user._id);
+  // const user = await User.find({ email: session.customer_email });
+  // const userId = user._id;
+  const userData = await User.findById(session.customer_id);
+  const user = session.customer_id;
+  console.log(user, userData);
   const price = session.amount_total / 100;
-  await Booking.create({ tour, userId, price });
+  await Booking.create({ tour, user, price });
 };
 
 exports.webhookCheckout = async (req, res, next) => {
